@@ -97,14 +97,3 @@ with open('data/words.txt', 'r', encoding='utf-8') as f:
     words = [line.strip() for line in f if line.strip()]
 print(words[:10])
 ```
-
-## Preview the README Locally
-Choose any of these options to preview this README with nice formatting:
-
-- **VS Code**: Open the file and press Cmd+Shift+V (or run “Markdown: Open Preview to the Side”).
-- **Terminal (Glow)**: `brew install glow` then `glow README.md` for a TUI preview.
-- **GitHub-style in browser (Grip)**:
-  - `pipx install grip` (or `pip install grip`)
-  - Run `grip` in the repo and open the served URL; it uses GitHub’s markdown styles.
-
-Have fun.
