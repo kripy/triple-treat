@@ -1,5 +1,9 @@
 # The Triple Treat
 
+<p align="center">
+  <img src="./correct-horse-battery-staple-impressionism.png" alt="correct horse battery staple impressionism" width="640" />
+</p>
+
 A curated, diverse word list blending traditional vocabulary, modern slang, and distinctive product/brand names.
 
 ## Table of Contents
