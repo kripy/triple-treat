@@ -4,8 +4,7 @@
   <img src="./correct-horse-battery-staple-impressionism.png" alt="correct horse battery staple impressionism" width="640" />
 </p>
 
-A curated, diverse word list blending traditional vocabulary, modern slang, and distinctive product/brand names.
-
+A curated word list blending traditional vocabulary, modern slang, IKEA furniture names and brands.
 ## Table of Contents
 - [Overview](#overview)
 - [Sources](#sources)
